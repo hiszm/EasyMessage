@@ -420,3 +420,8 @@ i:2;a:4:{s:8:"username";s:9:"摸鱼师";s:5:"title";s:12:"测试标题";s:7:"con
 ## code
 
 https://github.com/hiszm/EasyMessage
+
+
+
+如果GitHub网络原因无法下载；可以扫描下面二维码，回复：6001 获取代码。
+![image](https://img-blog.csdnimg.cn/cd22b27f009f4b27965f37b9e56dbc22.png)
